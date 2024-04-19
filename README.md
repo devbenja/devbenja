@@ -1,6 +1,24 @@
 <h1 align='center'> Hi there, I am Benjamin Carias! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></p>
+<p align='center'><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></p>
 <h3 align="center">Computer Engineer | Software Developer | IT Enthusiast</h3>
+
+<br>
+
+### 🚀 About Me
+<hr>
+
+Greetings! I graduated in Computer Engineering from the National Engineering University of Nicaragua. My passion lies in programming and technology, driving me to continuously seek new challenges for skill enhancement.
+
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+<br>
 
 ### 🛠 &nbsp; Skills
 <hr
