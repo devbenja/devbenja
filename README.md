@@ -10,6 +10,8 @@
 <p align="center">Greetings! I graduated in Computer Engineering from the National Engineering University of Nicaragua. My passion 
 lies in programming and technology, driving me to continuously seek new challenges for skill enhancement.</p>
 
+<br>
+
 - 🔭 Working on my portfolio website.
 
 - 📖 Currently learning NextJS and TypeScript.
