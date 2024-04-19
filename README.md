@@ -7,16 +7,16 @@
 ### 🚀 About Me
 <hr>
 
-Greetings! I graduated in Computer Engineering from the National Engineering University of Nicaragua. My passion lies in programming and technology, driving me to continuously seek new challenges for skill enhancement.
+<p align="center">Greetings! I graduated in Computer Engineering from the National Engineering University of Nicaragua. My passion 
+lies in programming and technology, driving me to continuously seek new challenges for skill enhancement.</p>
 
+- 🔭 Working on my portfolio website.
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 📖 Currently learning NextJS and TypeScript.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 👐 Open to work.
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 👨‍💻 I like collaborative and multicultural work.
 
 <br>
 
