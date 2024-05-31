@@ -46,9 +46,7 @@ lies in programming and technology, driving me to continuously seek new challeng
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-</div>
-
+ 
 ###
 
 <h4 align="left">Backend</h4>
