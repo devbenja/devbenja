@@ -12,10 +12,6 @@ lies in programming and technology, driving me to continuously seek new challeng
 
 <br>
 
-- 🔭 Working on my portfolio website.
-
-- 📖 Currently learning NextJS and TypeScript.
-
 - 👐 Open to work.
 
 - 👨‍💻 I like collaborative and multicultural work.
