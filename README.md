@@ -1,6 +1,6 @@
 <h1 align='center'> Hi, I am Benjamin Carias! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></p>
-<h3 align="center">Computer Engineer | Software Developer | IT Enthusiast</h3>
+<h3 align="center">Computer Engineer | Software Developer<d/h3>
 
 <br>
 
