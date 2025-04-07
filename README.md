@@ -1,5 +1,5 @@
-<h1 align='center'> Hi, I am Benjamin Carias! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<h1 align="center">Computer Engineer | Software Developer</h1>
+<h2 align='center'> Hi, I am Benjamin Carias! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
+<h2 align="center">Computer Engineer | Software Developer</h2>
 
 <br>
 
